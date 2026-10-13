@@ -1,5 +1,7 @@
 # 2FSIQA
 
+> *Better stand-alone version is now available. Though it is different in many ways, and its scores should not be compared with scores of this implementation: [DAPTYX/2fsiqa](https://github.com/DAPTYX/2fsiqa)*
+
 ## What is it
 2FSIQA is a metric that estimates the similarity between two input images and produces a score ranging from 0 (not similar) to 1 (identical). It works by combining multiple established Image Quality Assessment (IQA) metrics into a single composite score.
 
